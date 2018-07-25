@@ -20,7 +20,7 @@ The team will start with 3 roles:
 
 ### Round 1 - Practice Patience
 
-Rules for this round are: Only one Navigator can talk. Everyone else observes. The Driver may not type any code without explicit direction from the single Navigator. Navigator you will verbalize your thoughts so your ideas flow through the Driver and become code in the computer. Every 5 minutes everyone will rotate until each person has been a Driver, Navigator, and Observer.  During this round Observers should not speak. Instead they should pay close attention and follow what is happening so they are prepared for the next role change.
+Rules for this round are: Only one Navigator can talk. Everyone else observes. The Driver may not type any code without explicit direction from the single Navigator. Navigator, you will verbalize your thoughts so your ideas flow through the Driver and become code in the computer. Every 5 minutes everyone will rotate until each person has been a Driver, Navigator, and Observer.  During this round Observers should not speak. Instead they should pay close attention and follow what is happening so they are prepared for the next role change.
 
 ### Round 2 - Phone a Friend
 
